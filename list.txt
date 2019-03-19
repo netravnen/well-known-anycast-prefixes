@@ -33,3 +33,56 @@
 169.239.202.0/24
 2a05:dfc7:5353::/48
 2a05:dfc7:5::/48
+#
+# a.root-servers.net
+# VeriSign, Inc.
+198.41.0.0/24
+2001:503:ba3e::2:30
+# b.root-servers.net
+# University of Southern California (ISI)
+199.9.14.0/24
+2001:500:200::/48
+# c.root-servers.net
+# Cogent Communications
+192.33.4.0/24
+2001:500:2::/48
+# d.root-servers.net
+# University of Maryland
+199.7.91.0/24
+2001:500:2d::/48
+# e.root-servers.net
+# NASA (Ames Research Center)
+192.203.230.0/24
+2001:500:a8::/48
+# f.root-servers.net
+# Internet Systems Consortium, Inc.
+192.5.5.0/24
+2001:500:2f::/48
+# g.root-servers.net
+# US Department of Defense (NIC)
+192.112.36.0/24
+2001:500:12::/48
+# h.root-servers.net
+# US Army (Research Lab)
+198.97.190.0/24
+2001:500:1::/48
+# i.root-servers.net
+# Netnod
+192.36.148.0/24
+2001:7fe::/48
+# j.root-servers.net
+# VeriSign, Inc.
+192.58.128.0/24
+2001:503:c27::/48
+# k.root-servers.net
+# RIPE NCC
+193.0.14.0/24
+2001:7fd::/32
+# l.root-servers.net
+# ICANN
+199.7.83.0/24
+2001:500:9f::/48
+# m.root-servers.net
+# WIDE Project
+202.12.27.0/24
+2001:dc3::/32
