@@ -86,3 +86,6 @@
 # WIDE Project
 202.12.27.0/24
 2001:dc3::/32
+#
+# https://dns4.pro (Org: web2objects)
+194.14.219.0/24
